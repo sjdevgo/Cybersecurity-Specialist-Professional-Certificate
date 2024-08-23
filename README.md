@@ -5,11 +5,11 @@
 3. [Introduction to Software, Programming, and Databases](https://www.coursera.org/learn/introduction-software-programming-and-databases/home/module/1)
 5. [Introduction to Networking and Storage](https://www.coursera.org/learn/introduction-to-networking-and-storage/home/module/1)
 6. Introduction to Cloud Computing [Certificate](https://coursera.org/share/a4b23b976f73d6202d6dc76910c2db61)
-7. [Introduction to Software, Programming, and Databases]
-8. [Security Principles]
-9. [Incident Response, BC, and DR Concepts]
-10. [Access Control Concepts]
-11. [Network Security]
-12. [Security Operations]
-13. [Cybersecurity Capstone: Breach Response Case Studies]
+7. [Introduction to Software, Programming, and Databases](https://www.coursera.org/learn/introduction-to-cybersecurity-essentials/home/module/1)
+8. [Security Principles](https://www.coursera.org/learn/-security-principles/home/module/1)
+9. [Incident Response, BC, and DR Concepts](https://www.coursera.org/learn/incident-response-bc-and-dr-concepts/home/module/1)
+10. [Access Control Concepts](https://www.coursera.org/learn/access-control-concepts/home/module/1)
+11. [Network Security](https://www.coursera.org/learn/-network-security/home/module/1)
+12. [Security Operations](https://www.coursera.org/learn/security-operations/home/module/1)
+13. [Cybersecurity Capstone: Breach Response Case Studies](https://www.coursera.org/learn/ibm-cybersecurity-breach-case-studies/home/module/1)
     
