@@ -5,7 +5,7 @@
 3. Introduction to Software, Programming, and Databases [Certificate](https://coursera.org/share/b81eb429e4b640ce190a72571c7824f2)
 5. [Introduction to Networking and Storage](https://www.coursera.org/learn/introduction-to-networking-and-storage/home/module/1)
 6. Introduction to Cloud Computing [Certificate](https://coursera.org/share/a4b23b976f73d6202d6dc76910c2db61)
-7. [Introduction to Software, Programming, and Databases](https://www.coursera.org/learn/introduction-to-cybersecurity-essentials/home/module/1)
+7. [Introduction to Cybersecurity Essentials](https://www.coursera.org/learn/introduction-to-cybersecurity-essentials/home/module/1)
 8. [Security Principles](https://www.coursera.org/learn/-security-principles/home/module/1)
 9. [Incident Response, BC, and DR Concepts](https://www.coursera.org/learn/incident-response-bc-and-dr-concepts/home/module/1)
 10. [Access Control Concepts](https://www.coursera.org/learn/access-control-concepts/home/module/1)
