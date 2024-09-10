@@ -2,7 +2,7 @@
 
 1. Introduction to Cybersecurity Careers [Certificate](https://coursera.org/share/6752ea43676d4b19167453b41b42f06d)
 2. Introduction to Hardware and Operating Systems [Certificate](https://coursera.org/share/046f5e66e7cbccfc2aac70bbf111dbde)
-3. [Introduction to Software, Programming, and Databases](https://www.coursera.org/learn/introduction-software-programming-and-databases/home/module/1)
+3. Introduction to Software, Programming, and Databases [Certificate](https://coursera.org/share/b81eb429e4b640ce190a72571c7824f2)
 5. [Introduction to Networking and Storage](https://www.coursera.org/learn/introduction-to-networking-and-storage/home/module/1)
 6. Introduction to Cloud Computing [Certificate](https://coursera.org/share/a4b23b976f73d6202d6dc76910c2db61)
 7. [Introduction to Software, Programming, and Databases](https://www.coursera.org/learn/introduction-to-cybersecurity-essentials/home/module/1)
